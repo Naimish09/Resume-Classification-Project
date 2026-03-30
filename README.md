@@ -5,7 +5,6 @@
 
 Resume Classifier AI automatically classifies resumes into job categories using a trained SVM + TF-IDF model. It extracts candidate details, scores resumes by category-specific criteria, and provides visual analytics.
 
-( https://resume-classifier-project-fvt4grsxilbm2tnckszizb.streamlit.app/)
 
 **Features**
 
